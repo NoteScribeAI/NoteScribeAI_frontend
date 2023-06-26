@@ -1,0 +1,1 @@
+# NoteScribeAI_frontend
